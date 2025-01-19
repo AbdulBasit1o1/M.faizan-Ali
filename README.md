@@ -1,4 +1,5 @@
-# Study
+this is my linkdin post
+https://www.linkedin.com/posts/muhammad-faizan-616076348_searchalgorithms-linearsearch-binarysearch-activity-7286769168274657280-IqwAt# Study
 Purpose of the Code:
 
 This Java program demonstrates two common search techniques:
